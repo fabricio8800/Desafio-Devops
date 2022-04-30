@@ -28,7 +28,7 @@ jobs:
     - name: Run Tests
       run: |
             env_file:
-            - .env
+            .env
         export SECRET_KEY="postgres"
          python web/manage.py test
         ls web/manage.py
