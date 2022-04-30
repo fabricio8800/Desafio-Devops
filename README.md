@@ -15,7 +15,7 @@ Comentários:
 
 - Requisito 1,2 e 3: tudo conforme o esperado.
 
--Requisito 4: fiz um teste simples de verificação sintaxe no arquivo manage.py toda vez que é feito um push ou pull request no main. Esse mesmo teste poderia ser estendido a outros arquivos.
+- Requisito 4: fiz um teste simples de verificação sintaxe no arquivo manage.py toda vez que é feito um push ou pull request no main. Esse mesmo teste poderia ser estendido a outros arquivos.
 
 - Requisito 5,6 e 7: tudo certo.
 
