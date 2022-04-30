@@ -1,4 +1,5 @@
-FROM ubuntu:20.04
+FROM python:3.7-slim-buster
+#FROM python:3.9
 RUN apt-get update -y && apt-get install -y python3-pip python3-dev
 COPY web/requirements.txt /webapps/
 WORKDIR /webapps

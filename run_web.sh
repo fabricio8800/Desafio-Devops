@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-
 cd web/
 python manage.py migrate
 python manage.py collectstatic --noinput
