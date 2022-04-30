@@ -8,7 +8,9 @@
 
 - Executar o comando "docker-compose up" dentro da pasta do repositório que foi clonado.
 
-- Acessar o endereço http://127.0.0.1 pelo navegador e ver se a página é exibida corretamente.
+- Acessar o endereço http://127.0.0.1 pelo navegador e ver se a página é exibida corretamente, conforme o exemplo abaixo:
+
+![Exemplo](images/01.png)
 
 ------------------------------------------------------------------------------
 Comentários:
