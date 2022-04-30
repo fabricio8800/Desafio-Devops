@@ -27,5 +27,8 @@ jobs:
         pip install -r web/requirements.txt
     - name: Run Tests
       run: |
-        export SECRET_KEY="teste"
+            env_file:
+            - .env
+        export SECRET_KEY="postgres"
+         python web/manage.py test
         ls web/manage.py
