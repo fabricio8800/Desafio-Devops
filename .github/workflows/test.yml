@@ -27,6 +27,4 @@ jobs:
         pip install -r web/requirements.txt
     - name: Run Tests
       run: |
-        ls web/manage.py
-        ls web
         python -m py_compile web/manage.py
