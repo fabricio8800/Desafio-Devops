@@ -13,7 +13,7 @@
 ![Exemplo](images/01.png)
 
 ------------------------------------------------------------------------------
-Comentários:
+# Comentários:
 
 - Requisito 1,2 e 3: tudo conforme o esperado.
 
@@ -21,4 +21,4 @@ Comentários:
 
 - Requisito 5,6 e 7: tudo certo.
 
-- Requisito extra: 
+- Requisito extra: Infelizmente não consegui executar, sei que é possível fazer usando a AWS por exemplo puxando os arquivos diretamente no repositório no GitHub.
